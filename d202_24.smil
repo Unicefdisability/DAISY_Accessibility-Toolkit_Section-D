@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="A. Preliminary activities" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION D: UNICEF AND UNITED NATIONS COMMON PREMISES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_3496">
+				<text src="toolkit_d.html#d2e1046" id="txt_3496" />
+			</par>
+			<par endsync="last" id="par_3497">
+				<text src="toolkit_d.html#id_516" id="txt_3497" />
+			</par>
+			<par endsync="last" id="par_3498">
+				<text src="toolkit_d.html#id_518" id="txt_3498" />
+			</par>
+			<par endsync="last" id="par_3499">
+				<text src="toolkit_d.html#noteref_14" id="txt_3499" />
+			</par>
+			<par endsync="last" id="par_3500">
+				<text src="toolkit_d.html#id_519" id="txt_3500" />
+			</par>
+			<par endsync="last" id="par_3501">
+				<text src="toolkit_d.html#id_521" id="txt_3501" />
+			</par>
+			<par endsync="last" id="par_3502">
+				<text src="toolkit_d.html#id_522" id="txt_3502" />
+			</par>
+			<par endsync="last" id="par_3503">
+				<text src="toolkit_d.html#id_523" id="txt_3503" />
+			</par>
+			<par endsync="last" id="par_3504">
+				<text src="toolkit_d.html#id_524" id="txt_3504" />
+			</par>
+			<par endsync="last" id="par_3505">
+				<text src="toolkit_d.html#id_526" id="txt_3505" />
+			</par>
+			<par endsync="last" id="par_3506">
+				<text src="toolkit_d.html#id_527" id="txt_3506" />
+			</par>
+			<par endsync="last" id="par_3507">
+				<text src="toolkit_d.html#id_528" id="txt_3507" />
+			</par>
+			<par endsync="last" id="par_3508">
+				<text src="toolkit_d.html#id_529" id="txt_3508" />
+			</par>
+			<par endsync="last" id="par_3509">
+				<text src="toolkit_d.html#p27" id="txt_3509" />
+			</par>
+			<par endsync="last" id="par_3510">
+				<text src="toolkit_d.html#id_531" id="txt_3510" />
+			</par>
+			<par endsync="last" id="par_3511">
+				<text src="toolkit_d.html#id_533" id="txt_3511" />
+			</par>
+			<par endsync="last" id="par_3512">
+				<text src="toolkit_d.html#id_534" id="txt_3512" />
+			</par>
+			<par endsync="last" id="par_3513">
+				<text src="toolkit_d.html#id_536" id="txt_3513" />
+			</par>
+			<par endsync="last" id="par_3514">
+				<text src="toolkit_d.html#id_537" id="txt_3514" />
+			</par>
+			<par endsync="last" id="par_3515">
+				<text src="toolkit_d.html#id_538" id="txt_3515" />
+			</par>
+			<par endsync="last" id="par_3516">
+				<text src="toolkit_d.html#id_539" id="txt_3516" />
+			</par>
+			<par endsync="last" id="par_3517">
+				<text src="toolkit_d.html#id_540" id="txt_3517" />
+			</par>
+			<par endsync="last" id="par_3518">
+				<text src="toolkit_d.html#id_542" id="txt_3518" />
+			</par>
+			<par endsync="last" id="par_3519">
+				<text src="toolkit_d.html#id_543" id="txt_3519" />
+			</par>
+			<par endsync="last" id="par_3520">
+				<text src="toolkit_d.html#id_544" id="txt_3520" />
+			</par>
+			<par endsync="last" id="par_3521">
+				<text src="toolkit_d.html#id_545" id="txt_3521" />
+			</par>
+			<par endsync="last" id="par_3522">
+				<text src="toolkit_d.html#id_547" id="txt_3522" />
+			</par>
+			<par endsync="last" id="par_3523">
+				<text src="toolkit_d.html#id_548" id="txt_3523" />
+			</par>
+			<par endsync="last" id="par_3524">
+				<text src="toolkit_d.html#id_549" id="txt_3524" />
+			</par>
+			<par endsync="last" id="par_3525">
+				<text src="toolkit_d.html#p28" id="txt_3525" />
+			</par>
+			<par endsync="last" id="par_3526">
+				<text src="toolkit_d.html#id_551" id="txt_3526" />
+			</par>
+			<par endsync="last" id="par_3527">
+				<text src="toolkit_d.html#id_552" id="txt_3527" />
+			</par>
+		</seq>
+	</body>
+</smil>

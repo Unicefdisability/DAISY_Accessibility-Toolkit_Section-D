@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="SECTION D UNICEF AND UNITED NATIONS COMMON PREMISES" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION D: UNICEF AND UNITED NATIONS COMMON PREMISES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_3436">
+				<text src="toolkit_d.html#d2e872" id="txt_3436" />
+			</par>
+			<par endsync="last" id="par_3437">
+				<text src="toolkit_d.html#id_440" id="txt_3437" />
+			</par>
+			<par endsync="last" id="par_3438">
+				<text src="toolkit_d.html#id_441" id="txt_3438" />
+			</par>
+			<par endsync="last" id="par_3439">
+				<text src="toolkit_d.html#p21" id="txt_3439" />
+			</par>
+			<par endsync="last" id="par_3440">
+				<text src="toolkit_d.html#id_443" id="txt_3440" />
+			</par>
+			<par endsync="last" id="par_3441">
+				<text src="toolkit_d.html#id_444" id="txt_3441" />
+			</par>
+			<par endsync="last" id="par_3442">
+				<text src="toolkit_d.html#id_445" id="txt_3442" />
+			</par>
+			<par endsync="last" id="par_3443">
+				<text src="toolkit_d.html#id_447" id="txt_3443" />
+			</par>
+			<par endsync="last" id="par_3444">
+				<text src="toolkit_d.html#id_448" id="txt_3444" />
+			</par>
+			<par endsync="last" id="par_3445">
+				<text src="toolkit_d.html#id_449" id="txt_3445" />
+			</par>
+			<par endsync="last" id="par_3446">
+				<text src="toolkit_d.html#id_452" id="txt_3446" />
+			</par>
+			<par endsync="last" id="par_3447">
+				<text src="toolkit_d.html#id_453" id="txt_3447" />
+			</par>
+			<par endsync="last" id="par_3448">
+				<text src="toolkit_d.html#p22" id="txt_3448" />
+			</par>
+		</seq>
+	</body>
+</smil>

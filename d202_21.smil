@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Greening and Accessibility Fund" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION D: UNICEF AND UNITED NATIONS COMMON PREMISES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_3463">
+				<text src="toolkit_d.html#d2e946" id="txt_3463" />
+			</par>
+			<par endsync="last" id="par_3464">
+				<text src="toolkit_d.html#id_471" id="txt_3464" />
+			</par>
+			<par endsync="last" id="par_3465">
+				<text src="toolkit_d.html#id_473" id="txt_3465" />
+			</par>
+			<par endsync="last" id="par_3466">
+				<text src="toolkit_d.html#id_474" id="txt_3466" />
+			</par>
+			<par endsync="last" id="par_3467">
+				<text src="toolkit_d.html#id_476" id="txt_3467" />
+			</par>
+			<par endsync="last" id="par_3468">
+				<text src="toolkit_d.html#noteref_13" id="txt_3468" />
+			</par>
+			<par endsync="last" id="par_3469">
+				<text src="toolkit_d.html#id_477" id="txt_3469" />
+			</par>
+			<par endsync="last" id="par_3470">
+				<text src="toolkit_d.html#id_480" id="txt_3470" />
+			</par>
+			<par endsync="last" id="par_3471">
+				<text src="toolkit_d.html#id_481" id="txt_3471" />
+			</par>
+			<par endsync="last" id="par_3472">
+				<text src="toolkit_d.html#p24" id="txt_3472" />
+			</par>
+		</seq>
+	</body>
+</smil>
